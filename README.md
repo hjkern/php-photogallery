@@ -6,9 +6,7 @@ Version 1.5
 www.raffia.ch, hjke   
 PHP-Version >= 5.3     
 
-THIS SCRIPT IS FREE "AS IS" AND WITHOUT ANY WARRANTY.    
-YOU MAY COPY, USE AND REDISTRIBUTE IT WITHOUT ANY RESTRICTION.    
-GIVE CREDIT AND PLACE A BACKLINK IN YOUR PROJECT!    
+MIT License   
 
 This Script
 -----------
